@@ -1,0 +1,63 @@
+.main{
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.Home{ 
+    background-color:#5dbcd2;
+    padding:20px;
+    color: white;
+    width: 220px;
+    border: 0cm;
+ 
+}
+
+.Dashboard{
+    background-color:#4f5f6e;
+    padding:20px;
+    color: white;
+    width: 220px;
+    border: 0cm;
+}
+
+.header {
+    background-color:#384653;
+    padding:20px;
+    color: white;
+    min-width:180px;
+    
+}
+.container{
+    display: flex;
+    
+    
+}
+.box{
+    background-color: #d6dde5;
+    width:100%;
+}
+
+
+
+.nav {
+   
+   background-color: #4f5f6e;
+   width: 220px;
+   height: 700px;
+
+}
+
+.nav ul{
+
+padding: 0;
+margin: 0%;
+}
+
+.nav ul li {
+    list-style: none;
+    width: 180px;
+    height: 40px;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+}
